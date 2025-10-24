@@ -9,16 +9,25 @@ PCAP - https://support.fai.utb.cz/s/MZY4o3a5jq4BQCg
 InfoGet part - information is the main point
 -----------------------------------------------------------------------------------------------
 get the right info... scanning
+
   nmap
+
   dirb
+  
   gobuster
+  
   nuclei
 
 Targets
+  
   192.168.82.45
+  
   192.168.82.150
+  
   192.168.83.48
+  
   192.168.82.106
+  
   192.168.82.214
 
 SQLi part - validate, validate, VALIDATE......
