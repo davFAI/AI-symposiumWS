@@ -27,3 +27,10 @@ sqlmap party time....
 
 Target
   192.168.82.39
+
+Infoget links......
+-----------------------------------------------------------------------------------------------
+https://crt.sh
+https://abuseipdb.com
+https://shodan.io
+https://virustotal.com
