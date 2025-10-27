@@ -1,10 +1,10 @@
 # AI-symposiumWS
 Support files and links for AI symposium 2025 on TBU
-Prepared copy of Kali Linux - https://support.fai.utb.cz/s/34CGXqfcEKGddNN
+Prepared copy of Kali Linux - <REDACTED>
 
 Forensic part - a small introduction to DFIR (mainly focused to network traffic identification)
 -----------------------------------------------------------------------------------------------
-PCAP - https://support.fai.utb.cz/s/MZY4o3a5jq4BQCg
+PCAP 7z there
 
 InfoGet part - information is the main point
 -----------------------------------------------------------------------------------------------
