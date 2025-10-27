@@ -1,6 +1,6 @@
 # AI-symposiumWS
 Support files and links for AI symposium 2025 on TBU
-Prepared copy of Kali Linux - <REDACTED>
+Prepared copy of Kali Linux - <<REDACTED>>
 
 Forensic part - a small introduction to DFIR (mainly focused to network traffic identification)
 -----------------------------------------------------------------------------------------------
@@ -18,7 +18,7 @@ get the right info... scanning
   
   nuclei
 
-Targets <REDACTED>
+Targets <<REDACTED>>
   
 
 SQLi part - validate, validate, VALIDATE......
